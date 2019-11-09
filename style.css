@@ -1,0 +1,41 @@
+#background {
+      background: url("http://getwallpapers.com/wallpaper/full/4/d/f/768221-train-desktop-wallpaper-1920x1080-image.jpg");
+}
+button {
+      align-content: left;
+      color: darkgreen;
+}
+
+button:hover {
+      border: 1px solid black;
+}
+
+#currentTime {
+      justify-content: center;
+}
+
+.card-header {
+      background-color: darkgreen;
+      font: bold;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+th {
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.form-group {
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+      font-family: 'Sanchez', serif;
+      font-family: 'Alice', serif;
+      font-size: 54px;
+}
+
+h3 {
+      font-family: 'Sanchez', serif;
+      font-family: 'Alice', serif;
+      font-size: 30px;
+}
