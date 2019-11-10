@@ -13,7 +13,7 @@ In this assignment, the objective was to create a train schedule application tha
     - Calculate when the next train will arrive; relative to the current time.
     - Users from many different machines must be able to view same train times.
 
-##Built With
+###Built With
  - Javascript
  - jQuery
  - HTML5
